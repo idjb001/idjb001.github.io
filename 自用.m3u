@@ -1,0 +1,54 @@
+#EXTM3U
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="自用",CCTV1综合高清
+https://media.hndyjyfw.gov.cn/live/jz-cctv-1/live.m3u8
+
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="自用",CCTV3综艺高清
+https://media.hndyjyfw.gov.cn/live/jz-cctv-3/live.m3u8
+
+
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="自用",CCTV5体育高清
+https://media.hndyjyfw.gov.cn/live/jz-cctv-5/live.m3u8
+
+
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="自用",CCTV6电影高清
+https://media.hndyjyfw.gov.cn/live/jz-cctv-6/live.m3u8
+
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="自用",CCTV7国防军事高清
+https://media.hndyjyfw.gov.cn/live/jz-cctv-7/live.m3u8
+
+
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="自用",CCTV9纪录高清
+https://media.hndyjyfw.gov.cn/live/jz-cctv-9/live.m3u8
+
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="自用",CCTV10科教高清
+https://media.hndyjyfw.gov.cn/live/jz-cctv-10/live.m3u8
+
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="自用",CCTV11戏曲高清
+https://media.hndyjyfw.gov.cn/live/jz-cctv-11/live.m3u8
+
+
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="自用",CCTV12社会与法高清
+https://media.hndyjyfw.gov.cn/live/jz-cctv-12/live.m3u8
+
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="自用",CCTV13新闻高清
+https://media.hndyjyfw.gov.cn/live/jz-cctv-13/live.m3u8
+
+
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="自用",浙江卫视高清
+https://media.hndyjyfw.gov.cn/live/jz-zhejiangweishi/live.m3u8
+
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="自用",北京卫视高清
+https://media.hndyjyfw.gov.cn/live/jz-beijingweishi/live.m3u8
+
+
+#EXTINF:-1,tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://epg.112114.xyz/logo/河南梨园.png" group-title="自用",河南梨园
+https://media.hndyjyfw.gov.cn/live/jz-henanliyuan/live.m3u8
+
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="自用",河南卫视
+https://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
+
+#EXTINF:-1,tvg-id="威海" tvg-name="威海" tvg-logo="https://epg.112114.xyz/logo/威海.png" group-title="自用",威海
+http://l1.weihai.tv:8081/hls/969O76hb21.m3u8
+#EXTINF:-1,tvg-id="山东" tvg-name="山东" tvg-logo="https://epg.112114.xyz/logo/山东.png" group-title="自用",山东
+http://l1.weihai.tv:8081/hls/oK0gP1n8es.m3u8
+
