@@ -49,6 +49,8 @@ https://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
 
 #EXTINF:-1,tvg-id="威海" tvg-name="威海" tvg-logo="https://epg.112114.xyz/logo/威海.png" group-title="自用",威海
 http://l1.weihai.tv:8081/hls/969O76hb21.m3u8
-#EXTINF:-1,tvg-id="山东" tvg-name="山东" tvg-logo="https://epg.112114.xyz/logo/山东.png" group-title="自用",山东
-http://l1.weihai.tv:8081/hls/oK0gP1n8es.m3u8
+
+#EXTINF:-1,tvg-id="山东1" tvg-name="山东1" tvg-logo="https://epg.112114.xyz/logo/山东.png" group-title="自用",山东
+http://l1.weihai.tv:8081/hls/oK0gP1n8ea.m3u8
+
 
